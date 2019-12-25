@@ -1,7 +1,5 @@
 # *cra-ts-maven-war*
 
-UNDER CONSTRUCTION
-
 An example of building a war of [*create-react-app*](https://github.com/facebook/create-react-app) in TypeScript on Maven
 
 ## Direct feature ancestors
