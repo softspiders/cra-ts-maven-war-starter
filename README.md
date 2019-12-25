@@ -12,6 +12,12 @@ An example of building a war of [*create-react-app*](https://github.com/facebook
 
 [*cra-maven-war*](https://github.com/softspider/cra-maven-war)
 
+
+## Direct feature descendants
+
+[*cra-ts-uilib-storybook-lerna-mvn-war*](https://github.com/softspider/cra-ts-uilib-storybook-lerna-mvn-war)
+
+
 ## Requirements
 
 * [*create-react-app*](https://facebook.github.io/create-react-app/)
