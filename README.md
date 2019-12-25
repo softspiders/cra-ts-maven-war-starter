@@ -21,12 +21,12 @@ An example of building a war of create-react-app in TypeScript on Maven
 * [*Tomcat*](http://tomcat.apache.org/) or another servlet container - for running
 * [*TypeScript*](https://www.typescriptlang.org/)
 
-## Build
+
+## Build war
 
 ```sh
-mvn package
+npm run build:war
 ```
-
 
 ## Hot deployment
 
