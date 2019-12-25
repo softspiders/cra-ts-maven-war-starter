@@ -2,6 +2,15 @@
 
 An example of building a war of [*create-react-app*](https://github.com/facebook/create-react-app) in TypeScript on Maven
 
+## Feature tags
+
+- build
+- create-react-app
+- maven
+- react
+- typescript
+- war
+
 ## Direct feature ancestors
 
 [*cra-maven-war*](https://github.com/softspider/cra-maven-war)
