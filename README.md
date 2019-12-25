@@ -32,9 +32,9 @@ npm run build:war
 
 [Start Tomcat server](https://www.webucator.com/how-to/how-start-stop-apache-tomcat-from-the-command-line-windows.cfm).
   
-Now the resulting *cra-maven-war.war* is in the *target* directory.
+Now the resulting *cra-ts-maven-war.war* is in the *target* directory.
   
-Copy the *cra-maven-war.war* to the *webapps* directory of the Tomcat server.
+Copy the *cra-ts-maven-war.war* to the *webapps* directory of the Tomcat server.
 
 Wait a few seconds for deployment.
 
@@ -44,7 +44,7 @@ Run [*http://localhost:8080/cra-ts-maven-war*](http://localhost:8080/cra-ts-mave
 
 ## Run from another path
 
-Rename *cra-maven-war* for example to *cra-maven-war-another-path*.  
+Rename *cra-ts-maven-war* for example to *cra-ts-maven-war-another-path*.  
 Deploy it to the *Tomcat*.  
 Run [*http://localhost:8080/cra-ts-maven-war-another-path*](http://localhost:8080/cra-ts-maven-war-another-path) from the
 browser
@@ -56,5 +56,4 @@ browser
 
 ### License
 
-Licensed under the [MIT license](./LICENSE). 
-
+Licensed under the [MIT license](./LICENSE).
