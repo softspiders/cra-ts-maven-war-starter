@@ -1,6 +1,10 @@
+SOFTSPIDERS
+
 # *cra-ts-maven-war*
 
 An example of building a war of [*create-react-app*](https://github.com/facebook/create-react-app) in TypeScript on Maven
+
+---
 
 ## Feature tags
 
@@ -12,19 +16,18 @@ An example of building a war of [*create-react-app*](https://github.com/facebook
 - typescript
 - war
 
-## Direct feature ancestors
+---
+
+## Direct ancestors - also by code
 
 [*cra-maven-war*](https://github.com/softspider/cra-maven-war)
 
-## Direct code ancestors
 
-[*cra-maven-war*](https://github.com/softspider/cra-maven-war)
-
-
-## Direct feature descendants
+## Direct descendants
 
 [*cra-ts-uilib-storybook-lerna-mvn-war*](https://github.com/softspider/cra-ts-uilib-storybook-lerna-mvn-war)
 
+---
 
 ## Requirements
 
@@ -35,12 +38,15 @@ An example of building a war of [*create-react-app*](https://github.com/facebook
 * [*Tomcat*](http://tomcat.apache.org/) or another servlet container - for running
 * [*TypeScript*](https://www.typescriptlang.org/)
 
+---
 
 ## Build war
 
 ```sh
 npm run build:war
 ```
+
+---
 
 ## Hot deployment
 
@@ -63,10 +69,13 @@ Deploy it to the *Tomcat*.
 Run [*http://localhost:8080/cra-ts-maven-war-another-path*](http://localhost:8080/cra-ts-maven-war-another-path) from the
 browser
 
+---
 
 ## Authors
 
 [Alexander Lapygin](https://github.com/AlexanderLapygin)
+
+---
 
 ### License
 
