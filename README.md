@@ -20,12 +20,12 @@ An example of building a war of [*create-react-app*](https://github.com/facebook
 
 ## Direct ancestors - also by code
 
-[*cra-maven-war*](https://github.com/softspider/cra-maven-war)
+[*cra-maven-war*](https://github.com/softspiders/cra-maven-war)
 
 
 ## Direct descendants
 
-[*cra-ts-uilib-storybook-lerna-mvn-war*](https://github.com/softspider/cra-ts-uilib-storybook-lerna-mvn-war)
+[*cra-ts-uilib-storybook-lerna-mvn-war*](https://github.com/softspiders/cra-ts-uilib-storybook-lerna-mvn-war)
 
 ---
 
