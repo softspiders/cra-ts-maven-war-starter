@@ -1,6 +1,6 @@
 SOFTSPIDERS
 
-# *cra-ts-maven-war*
+# *cra-ts-maven-war-starter*
 
 An example of building a war of [*create-react-app*](https://github.com/facebook/create-react-app) in TypeScript on Maven
 
@@ -20,7 +20,7 @@ An example of building a war of [*create-react-app*](https://github.com/facebook
 
 ## Direct ancestors - also by code
 
-[*cra-maven-war*](https://github.com/softspiders/cra-maven-war)
+[*cra-maven-war-starter*](https://github.com/softspiders/cra-maven-war-starter)
 
 
 ## Direct descendants
