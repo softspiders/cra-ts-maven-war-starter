@@ -11,7 +11,7 @@ An example of building a war of [*create-react-app*](https://github.com/facebook
 - build
 - create-react-app
 - maven
-- react
+- starter
 - template
 - typescript
 - war
